@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "TinyMLaaS5"
+  site-url: "https://doyu.github.io/TinyMLaaS5"
+  description: "Explore the ability to shrink a big ML model into the smaller"
+  repo-branch: main
+  repo-url: "https://github.com/doyu/TinyMLaaS5"
